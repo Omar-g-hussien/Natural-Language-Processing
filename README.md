@@ -72,9 +72,6 @@ The notebook provides insights into the sentiment of customer reviews by analyzi
 ## Contributing
 Contributions are welcome! Fork the repository and submit a pull request with your changes.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Acknowledgments
 - **NLTK** for natural language processing.
 - **VADER** for sentiment analysis.
